@@ -1,4 +1,6 @@
+---
 title: Association Symphonique de Paris
+---
 
 ## Concerts
 
