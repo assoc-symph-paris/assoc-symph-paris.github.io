@@ -4,7 +4,7 @@ title: Association Symphonique de Paris
 
 Accueil - [Qui sommes-nous ?](presentation.md) - [Rejoignez-nous !](join.md) - [Concerts](concerts.md) - [Contact](contact.md)
 
-![logo](img/logo200.png)
+<img src="img/logo200.png" style="" />
 
 ## Accueil - Actualités
 
