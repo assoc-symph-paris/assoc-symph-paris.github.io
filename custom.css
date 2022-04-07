@@ -9,6 +9,7 @@
   border-radius: 5px;
   margin: 0px;
   margin-bottom: 1px !important;
+  background-color: white;
 }
 
 .float-left{
@@ -20,6 +21,5 @@
 #bandeau{
   position: sticky;
   top: 2px;
-  background-color: grey;
   text-align: center;
 }
