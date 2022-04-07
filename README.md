@@ -6,7 +6,8 @@ Ce site est en construction. Pour voir le site opérationnel, cliquez sur l'imag
 
 [![site](site.jpg)](https://www.association-symphonique-paris.fr/)
 
-Actualités{: .bouton}
+Actualités
+{: .bouton}
 
 ## Actualités
 
