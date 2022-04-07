@@ -19,5 +19,7 @@
 
 #bandeau{
   position: sticky;
-  top: -1px;
+  top: 2px;
+  background-color: grey;
+  text-align: center;
 }
