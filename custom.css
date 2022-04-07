@@ -16,3 +16,7 @@
   float: left;
   margin-right: 10px;
 }
+
+#bandeau{
+  position: absolute;
+}
