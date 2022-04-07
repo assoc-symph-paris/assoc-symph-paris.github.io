@@ -6,11 +6,7 @@ title: Association Symphonique de Paris
 
 # Présentation
 
-[L'association](#lassociation)
-{: .bouton}
-
-[Le chef](#le-chef)
-{: .bouton}
+[L'association](#lassociation) - [Le chef](#le-chef)
 
 ## L'association
 
