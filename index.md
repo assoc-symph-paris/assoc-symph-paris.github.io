@@ -1,10 +1,5 @@
 # Association Symphonique de Paris
 
-<link rel="stylesheet" href="custom.css">
-
-[Actus](#actualités) [Présentation](presentation.md) [Recrutements](#nous-recrutons) [Concerts](#concerts)
-{: #bandeau}
-
 Ce site est en construction. Pour voir le site opérationnel, cliquez sur l'image ci-dessous :
 
 [![site](site.jpg)](https://www.association-symphonique-paris.fr/)
@@ -37,9 +32,8 @@ Programme 2021-2022 (4 sessions par an):
 - Danses Polovtsiennes de Borodine
 - ...
 
- 
+Rentrée début septembre
 
-- Rentrée début septembre
 - Répétitions le lundi (hors vacances scolaires) de 19h30 à 21h30 à l'école de l'Arbalète, 41 rue de l'arbalète, 75005 PARIS ou à Arcueil près de la station de RER B Laplace
 - Cotisation annuelle (pour les 3 sessions) 90 euros (2/3 déductibles des impôts)
     - 20 euros tarif étudiant
