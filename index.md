@@ -2,7 +2,7 @@
 title: Association Symphonique de Paris
 ---
 
-[Accueil](index.md) - [Qui sommes-nous ?](presentation.md) - [Rejoignez-nous !](join.md) - [Concerts](concerts.md) - [Contact](contact.md)
+Accueil - [Qui sommes-nous ?](presentation.md) - [Rejoignez-nous !](join.md) - [Concerts](concerts.md) - [Contact](contact.md)
 
 Ce site est en construction. Pour voir le site opérationnel, cliquez sur l'image ci-dessous :
 
@@ -17,3 +17,7 @@ Ce site est en construction. Pour voir le site opérationnel, cliquez sur l'imag
     - prochaine répétition : lundi 11 avril 2022, 19h30
 - [Rejoignez-nous !](join.md)
 - [Contactez-nous !](contact.md)
+
+----
+
+Accueil - [Qui sommes-nous ?](presentation.md) - [Rejoignez-nous !](join.md) - [Concerts](concerts.md) - [Contact](contact.md)
