@@ -2,11 +2,7 @@
 title: <img src="img/logo200_transp_white.png" />
 ---
 
-<style>
-    .page-header{
-        padding: 0px !important;
-    }
-</style>
+<style>.page-header{padding: 0px !important;}</style>
 
 Accueil - [Qui sommes-nous ?](presentation.md) - [Rejoignez-nous !](join.md) - [Concerts](concerts.md) - [Contact](contact.md)
 
