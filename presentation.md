@@ -26,7 +26,7 @@ L'association travaille en différentes formations :
 
 ## Le chef
 
-![chef](img/Rodrick2.jpg){: .float-left}
+<img src="img/Rodrick2.jpg" style="float:left; max-width:200px; margin-right: 10px;" />
 
 Rodrick Barillot commence la musique au conservatoire de Béziers en classe de percussions classiques. Ses études le mènent au conservatoire de Montpellier, où il se forme en tuba, en analyse musicale et en direction d’orchestre. Il se perfectionne ensuite auprès de chefs renommés tels que C. Kesmaecker, A. McDonnell, D. Rouits ou encore J. Masmondet et obtient le diplôme de direction d’orchestre de l’Ecole Normale de Musique de Paris.
 
