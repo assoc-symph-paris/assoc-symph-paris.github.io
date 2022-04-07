@@ -1,3 +1,3 @@
 # Association Symphonique de Paris
 
-bla bla
+![site](site.jpg)
