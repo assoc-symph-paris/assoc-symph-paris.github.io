@@ -1,4 +1,6 @@
 .bouton{
   display: inline-block;
   border: 1px solid grey;
+  padding: 3px;
+  border-radius: 5px;
 }
