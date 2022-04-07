@@ -6,7 +6,7 @@ Ce site est en construction. Pour voir le site opérationnel, cliquez sur l'imag
 
 ## Actualités
 
-- Prochains concerts
+- [Prochains concerts](concerts.md)
     - le 15 mai à La Ferté-Vidame
     - Bus Opéra, les 18 et 19 juin à Massy, Longjumeau et Les Ulis
 - Planning des répétitions
