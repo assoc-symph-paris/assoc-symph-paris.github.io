@@ -2,7 +2,7 @@
 title: Association Symphonique de Paris
 ---
 
-[Accueil](index.md) - [Qui sommes-nous ?](presentation.md) - [Rejoignez-nous !](join.md) - [Concerts](concerts.md) - [Contact](contact.md)
+[Accueil](index.md) - Qui sommes-nous ? - [Rejoignez-nous !](join.md) - [Concerts](concerts.md) - [Contact](contact.md)
 
 # Présentation
 
@@ -35,3 +35,5 @@ C’est en 2008 qu'il devient chef d’orchestre de l’Harmonie de Bédarieux e
 Il crée son propre ensemble, l’Orchestre Nobis, lors de son arrivée à Paris. Avec celui-ci, Rodrick touche aussi bien au répertoire symphonique classique qu’aux créations contemporaines de jeunes compositeurs (A. Corteel, G. Carpene…) et s’investit également dans des projets artistiques intégrant le théâtre (Grand Théâtre de Paris, Fine Cie...), la danse, le cirque ou encore le rap.
 
 Il est choisi en 2019 comme directeur musical de l’Association Symphonique de Paris.
+
+[Accueil](index.md) - Qui sommes-nous ? - [Rejoignez-nous !](join.md) - [Concerts](concerts.md) - [Contact](contact.md)
