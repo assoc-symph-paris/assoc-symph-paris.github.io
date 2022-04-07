@@ -18,5 +18,5 @@
 }
 
 #bandeau{
-  position: absolute;
+  position: fixed;
 }
