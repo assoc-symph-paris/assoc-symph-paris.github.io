@@ -12,8 +12,7 @@
   display: inlin-block;
   position: sticky;
   float: right;
-  top: 0px;
-  text-align: center;
+  top: 10px;
   border: 2px solid #1e6bb8;
   padding: 3px;
   border-radius: 5px;
