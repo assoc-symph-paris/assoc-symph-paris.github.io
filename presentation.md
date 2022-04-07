@@ -36,4 +36,6 @@ Il crée son propre ensemble, l’Orchestre Nobis, lors de son arrivée à Paris
 
 Il est choisi en 2019 comme directeur musical de l’Association Symphonique de Paris.
 
+----
+
 [Accueil](index.md) - Qui sommes-nous ? - [Rejoignez-nous !](join.md) - [Concerts](concerts.md) - [Contact](contact.md)
