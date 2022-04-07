@@ -27,7 +27,10 @@ Rentrée début septembre
 - Cotisation annuelle (pour les 3 sessions) 90 euros (2/3 déductibles des impôts)
     - 20 euros tarif étudiant
 
-## Contact
+[Contactez-nous !](contact.md)
+
+
+
 
 
 
