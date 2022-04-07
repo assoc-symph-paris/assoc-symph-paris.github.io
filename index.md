@@ -14,5 +14,6 @@ Ce site est en construction. Pour voir le site opérationnel, cliquez sur l'imag
     - le 15 mai à La Ferté-Vidame
     - Bus Opéra, les 18 et 19 juin à Massy, Longjumeau et Les Ulis
 - Planning des répétitions
-    - prochaine répétition: lundi 11 avril 2022, 19h30
+    - prochaine répétition : lundi 11 avril 2022, 19h30
 - [Rejoignez-nous !](join.md)
+- [Contactez-nous !](contact.md)
