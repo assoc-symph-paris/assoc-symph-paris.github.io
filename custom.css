@@ -5,7 +5,8 @@
   border-radius: 5px;
 }
 
-.left{
-  max-width: 30%;
+.float-left{
+  max-width: 200px;
   float: left;
+  margin-right: 10px;
 }
