@@ -11,7 +11,7 @@
 #bandeau{
   display: block;
   position: sticky;
-  top: 10px;
+  top: 50px;
   border: 2px solid #1e6bb8;
   padding: 3px;
   border-radius: 5px;
