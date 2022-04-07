@@ -4,7 +4,7 @@ Ce site est en construction. Pour voir le site opérationnel, cliquez sur l'imag
 
 [![site](site.jpg)](https://www.association-symphonique-paris.fr/)
 
-## Actualités
+## Accueil - Actualités
 
 - [Prochains concerts](concerts.md)
     - le 15 mai à La Ferté-Vidame
