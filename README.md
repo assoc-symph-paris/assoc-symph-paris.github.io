@@ -1,3 +1,3 @@
 # Association Symphonique de Paris
 
-[index](index.md)
+[index](index.html)
