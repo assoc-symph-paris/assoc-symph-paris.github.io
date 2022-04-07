@@ -21,8 +21,11 @@ Ce site est en construction. Pour voir le site opérationnel, cliquez sur l'imag
 ## Actualités
 
 - Prochains concerts
+    - le 15 mai à La Ferté-Vidame
+    - Bus Opéra, les 18 et 19 juin à Massy, Longjumeau et Les Ulis
 - Planning des répétitions
-- Rejoignez-nous !
+    - prochaine répétition: lundi 11 avril 2022, 19h30
+- [Rejoignez-nous !](#nous-recrutons)
 
 ## Présentation
 
