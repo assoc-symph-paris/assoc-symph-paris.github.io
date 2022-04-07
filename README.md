@@ -1,3 +1,3 @@
 # Association Symphonique de Paris
 
-[TOC]
+{% toc %}
