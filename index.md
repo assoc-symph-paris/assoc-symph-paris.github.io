@@ -11,7 +11,7 @@ Ce site est en construction. Pour voir le site opérationnel, cliquez sur l'imag
     - Bus Opéra, les 18 et 19 juin à Massy, Longjumeau et Les Ulis
 - Planning des répétitions
     - prochaine répétition: lundi 11 avril 2022, 19h30
-- [Rejoignez-nous !](#nous-recrutons)
+- [Rejoignez-nous !](recrutements.md)
 
 
 ## Concerts
