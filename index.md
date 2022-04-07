@@ -1,5 +1,5 @@
 ---
-title: Association Symphonique de Paris <img src="img/logo200_transp.png" />
+title: <div style="vertical-align: middle;">Association Symphonique de Paris <img src="img/logo200_transp_white.png" /></div>
 ---
 
 Accueil - [Qui sommes-nous ?](presentation.md) - [Rejoignez-nous !](join.md) - [Concerts](concerts.md) - [Contact](contact.md)
