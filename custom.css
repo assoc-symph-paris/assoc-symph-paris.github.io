@@ -9,8 +9,9 @@
 }
 
 #bandeau{
-  display: block;
+  display: inlin-block;
   position: sticky;
+  float: right;
   top: 0px;
   text-align: center;
   border: 2px solid #1e6bb8;
