@@ -4,7 +4,7 @@ title: Association Symphonique de Paris
 
 [Accueil](index.md) - Qui sommes-nous ? - [Rejoignez-nous !](join.md) - [Concerts](concerts.md) - [Contact](contact.md)
 
-# Présentation
+# Qui sommes-nous ?
 
 [L'association](#lassociation) - [Le chef](#le-chef)
 
