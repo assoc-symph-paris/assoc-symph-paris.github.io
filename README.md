@@ -84,6 +84,12 @@ Programme 2021-2022 (4 sessions par an):
 
 ## Concerts
 
+[Prochains concerts](#prochains-concerts)
+{: .bouton}
+
+[Concerts précédents](#concerts-précédents)
+{: .bouton}
+
 ### Prochains Concerts
 
 ### Concerts Précedents
