@@ -2,12 +2,12 @@
 
 <link rel="stylesheet" href="custom.css">
 
+[Actus](#actualités)-[Présentation](#présentation)-[Recrutons](#nous-recrutons)-[Concerts](#concerts)
+{: #bandeau}
+
 Ce site est en construction. Pour voir le site opérationnel, cliquez sur l'image ci-dessous :
 
 [![site](site.jpg)](https://www.association-symphonique-paris.fr/)
-
-[Actus](#actualités)-[Présentation](#présentation)-[Recrutons](#nous-recrutons)-[Concerts](#concerts)
-{: #bandeau}
 
 ## Actualités
 
