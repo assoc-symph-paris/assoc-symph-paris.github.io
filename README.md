@@ -2,7 +2,7 @@
 
 <link rel="stylesheet" href="custom.css">
 
-[Actus](#actualités)<br>[Présentation](#présentation)<br>[Recrutements](#nous-recrutons)<br>[Concerts](#concerts)
+[Actus](#actualités) [Présentation](#présentation) [Recrutements](#nous-recrutons) [Concerts](#concerts)
 {: #bandeau}
 
 Ce site est en construction. Pour voir le site opérationnel, cliquez sur l'image ci-dessous :
