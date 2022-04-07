@@ -1,6 +1,10 @@
-# Nous recrutons
+---
+title: Association Symphonique de Paris
+---
 
-## Recrutement 2022
+[Accueil](index.md) - [Qui sommes-nous ?](presentation.md) - [Rejoignez-nous !](join.md) - [Concerts](concerts.md) - [Contact](contact.md)
+
+## Rejoignez-nous !
 
 Afin de remplacer les inévitables départs (déménagements, fin d'études ou de mission à Paris, etc.) notre orchestre recrute des violons, hautbois/cor anglais, contrebasses et cuivres pour la saison 2021-2022.
 
@@ -24,5 +28,6 @@ Rentrée début septembre
     - 20 euros tarif étudiant
 
 ## Contact
+
 
 
