@@ -2,16 +2,6 @@
   padding: 0px !important;
 }
 
-.bouton{
-  display: inline-block;
-  border: 2px solid #1e6bb8;
-  padding: 3px;
-  border-radius: 5px;
-  margin: 0px;
-  margin-bottom: 1px !important;
-  background-color: white;
-}
-
 .float-left{
   max-width: 200px !important;
   float: left;
@@ -19,7 +9,14 @@
 }
 
 #bandeau{
+  display: inline-block;
   position: sticky;
   top: 2px;
   text-align: center;
+  border: 2px solid #1e6bb8;
+  padding: 3px;
+  border-radius: 5px;
+  margin: 0px;
+  margin-bottom: 1px !important;
+  background-color: white;
 }
