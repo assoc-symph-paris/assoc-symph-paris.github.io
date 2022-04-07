@@ -7,19 +7,10 @@ Ce site est en construction. Pour voir le site opérationnel, cliquez sur l'imag
 [![site](site.jpg)](https://www.association-symphonique-paris.fr/)
 
 <div id="bandeau">
-
-[Actus](#actualités)
-{: .bouton}
-
-[Présentation](#présentation)
-{: .bouton}
-
-[Recrutons](#nous-recrutons)
-{: .bouton}
-
-[Concerts](#concerts)
-{: .bouton}
-
+    <a href="#actualités" class="bouton">Actus</a>
+    <a href="#présentation" class="bouton">Présentation</a>
+    <a href="#nous-recrutons" class="bouton">Recrutons</a>
+    <a href="#concerts" class="bouton">Concerts</a>
 </div>
 
 ## Actualités
