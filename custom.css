@@ -11,7 +11,7 @@
 #bandeau{
   display: block;
   position: sticky;
-  top: 2px;
+  top: 0px;
   text-align: center;
   border: 2px solid #1e6bb8;
   padding: 3px;
@@ -19,4 +19,14 @@
   margin: 0px;
   margin-bottom: 1px !important;
   background-color: white;
+}
+
+.bouton{
+  display: inline-block;
+  border: 2px solid #1e6bb8;
+  padding: 3px;
+  border-radius: 5px;
+  margin: 0px;
+  margin-bottom: 1px !important;
+  background-color: white;  
 }
