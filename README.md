@@ -6,6 +6,8 @@ Ce site est en construction. Pour voir le site opérationnel, cliquez sur l'imag
 
 [![site](site.jpg)](https://www.association-symphonique-paris.fr/)
 
+----
+
 [Actus](#actualités)
 {: .bouton}
 
@@ -18,6 +20,8 @@ Ce site est en construction. Pour voir le site opérationnel, cliquez sur l'imag
 [Concerts](#concerts)
 {: .bouton}
 
+----
+
 ## Actualités
 
 - Prochains concerts
@@ -27,7 +31,30 @@ Ce site est en construction. Pour voir le site opérationnel, cliquez sur l'imag
     - prochaine répétition: lundi 11 avril 2022, 19h30
 - [Rejoignez-nous !](#nous-recrutons)
 
+----
+
+[Actus](#actualités)
+{: .bouton}
+
+[Présentation](#présentation)
+{: .bouton}
+
+[Recrutons](#nous-recrutons)
+{: .bouton}
+
+[Concerts](#concerts)
+{: .bouton}
+
+----
+
 ## Présentation
+
+[L'association](#lassociation)
+{: .bouton}
+
+[Le chef](#le-chef)
+{: .bouton}
+
 
 ### L'association
 
@@ -57,11 +84,58 @@ Il crée son propre ensemble, l’Orchestre Nobis, lors de son arrivée à Paris
 
 Il est choisi en 2019 comme directeur musical de l’Association Symphonique de Paris.
 
+----
+
+[Actus](#actualités)
+{: .bouton}
+
+[Présentation](#présentation)
+{: .bouton}
+
+[Recrutons](#nous-recrutons)
+{: .bouton}
+
+[Concerts](#concerts)
+{: .bouton}
+
+----
 
 ## Nous recrutons
+
+----
+
+[Actus](#actualités)
+{: .bouton}
+
+[Présentation](#présentation)
+{: .bouton}
+
+[Recrutons](#nous-recrutons)
+{: .bouton}
+
+[Concerts](#concerts)
+{: .bouton}
+
+----
 
 ## Concerts
 
 ### Prochains Concerts
 
 ### Concerts Précedents
+
+----
+
+[Actus](#actualités)
+{: .bouton}
+
+[Présentation](#présentation)
+{: .bouton}
+
+[Recrutons](#nous-recrutons)
+{: .bouton}
+
+[Concerts](#concerts)
+{: .bouton}
+
+----
