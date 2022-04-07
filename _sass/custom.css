@@ -1,1 +1,31 @@
+.page-header{
+  padding: 0px !important;
+}
 
+.float-left{
+  max-width: 200px !important;
+  float: left;
+  margin-right: 10px;
+}
+
+#bandeau{
+  display: block;
+  position: sticky;
+  top: 50px;
+  border: 2px solid #1e6bb8;
+  padding: 3px;
+  border-radius: 5px;
+  margin: 0px;
+  margin-bottom: 1px !important;
+  background-color: white;
+}
+
+.bouton{
+  display: inline-block;
+  border: 2px solid #1e6bb8;
+  padding: 3px;
+  border-radius: 5px;
+  margin: 0px;
+  margin-bottom: 1px !important;
+  background-color: white;  
+}
