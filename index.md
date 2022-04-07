@@ -1,10 +1,14 @@
 ---
-title: <img src="img/logo200_transp_white.png" />Association Symphonique<br>de Paris
+title: <img src="img/logo200_transp_white.png" />
 ---
 
 <style>.page-header{padding: 0px !important;}</style>
 
 Accueil - [Qui sommes-nous ?](presentation.md) - [Rejoignez-nous !](join.md) - [Concerts](concerts.md) - [Contact](contact.md)
+
+Ce site est en cours de construction, suivez le lien suivant pour le site opérationnel actuel :
+
+http://www.association-symphonique-paris.fr/
 
 ----
 
