@@ -1,5 +1,5 @@
 ---
-title: <img src="img/logo200_transp_white.png" />
+title: <img src="img/logo200_transp_white.png" />Association<br>Symphonique<br>de Paris
 ---
 
 <style>.page-header{padding: 0px !important;}</style>
